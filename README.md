@@ -8,20 +8,13 @@ The patterns come from real-world design decisions and practical challenges, but
 
 ## Articles
 
-1. **Designing a Multi-Tenant SaaS Platform Using Hierarchical Scopes**
-   /articles/multi-tenant-hierarchical-scope-architecture.md
+## Articles
 
-2. **RBAC Scope Inheritance Model for Multi-Level Systems**
-   /articles/rbac-scope-inheritance-model.md
-
-3. **Dynamic Field Engine and Extensible Views Architecture**
-   /articles/dynamic-field-engine-and-views-architecture.md
-
-4. **Event Driven Architecture for SaaS Platforms**
-   /articles/event-driven-architecture-for-saas-platforms.md
-
-5. **Designing a Multi-Tenant RAG Architecture Using Vector Databases**
-   /articles/designing-a-multi-tenant-rag-architecture-using-vector-databases.md
+- [Designing a Multi-Tenant SaaS Platform Using Hierarchical Scopes](./articles/multi-tenant-hierarchical-scope-architecture.md)
+- [RBAC Scope Inheritance Model for Multi-Level Systems](./articles/rbac-scope-inheritance-model.md)
+- [Dynamic Field Engine and Extensible Views Architecture](./articles/dynamic-field-engine-and-views-architecture.md)
+- [Event Driven Architecture for SaaS Platforms](./articles/event-driven-architecture-for-saas-platforms.md)
+- [Designing a Multi-Tenant RAG Architecture Using Vector Databases](./articles/designing-a-multi-tenant-rag-architecture-using-vector-databases.md)
 
 ---
 
