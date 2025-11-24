@@ -4,7 +4,7 @@
 
 Multi-tenant SaaS platforms must isolate data, permissions, and operations across multiple customers while remaining scalable and extensible. Traditional “tenant-per-schema” or “tenant-per-column” models often fail when products grow into complex, hierarchical structures.
 
-This article introduces a **Hierarchical Scope Architecture** using **Root**, **Intermediate**, and **Leaf** scopes — a generic, future-proof pattern suitable for any SaaS platform that requires multi-level isolation.
+This article introduces a **Hierarchical Scope Architecture** using **Root**, **Intermediate**, and **Leaf** scopes - a generic, future-proof pattern suitable for any SaaS platform that requires multi-level isolation.
 
 ---
 
@@ -48,7 +48,7 @@ Root Scope
          └── Leaf Scope
 ```
 
-This hierarchy is infinitely extensible — you can introduce more layers in the future without redesigning your system.
+This hierarchy is infinitely extensible - you can introduce more layers in the future without redesigning your system.
 
 ---
 
@@ -221,7 +221,7 @@ This approach prevents redesigns even when your product grows unexpectedly.
 
 ## **12. Final Thoughts**
 
-Hierarchical Scope Architecture is a powerful pattern for designing extensible, secure, multi-tenant SaaS platforms. By treating scopes as generic containers — instead of hardcoding domain concepts — your system gains:
+Hierarchical Scope Architecture is a powerful pattern for designing extensible, secure, multi-tenant SaaS platforms. By treating scopes as generic containers - instead of hardcoding domain concepts - your system gains:
 
 * future-proof flexibility
 * clean permission boundaries
