@@ -8,8 +8,6 @@ The patterns come from real-world design decisions and practical challenges, but
 
 ## Articles
 
-## Articles
-
 - [Designing a Multi-Tenant SaaS Platform Using Hierarchical Scopes](./articles/multi-tenant-hierarchical-scope-architecture.md)
 - [RBAC Scope Inheritance Model for Multi-Level Systems](./articles/rbac-scope-inheritance-model.md)
 - [Dynamic Field Engine and Extensible Views Architecture](./articles/dynamic-field-engine-and-views-architecture.md)
