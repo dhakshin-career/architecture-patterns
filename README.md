@@ -13,6 +13,7 @@ The patterns come from real-world design decisions and practical challenges, but
 - [Dynamic Field Engine and Extensible Views Architecture](./articles/dynamic-field-engine-and-views-architecture.md)
 - [Event Driven Architecture for SaaS Platforms](./articles/event-driven-architecture-for-saas-platforms.md)
 - [Designing a Multi-Tenant RAG Architecture Using Vector Databases](./articles/designing-a-multi-tenant-rag-architecture-using-vector-databases.md)
+- [Reversible vs Irreversible Decisions in SaaS Platforms](./articles/reversible-vs-irreversible-decisions-in-saas.md)
 
 ---
 
